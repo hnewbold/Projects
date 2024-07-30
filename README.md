@@ -7,6 +7,8 @@ Welcome to my data science portfolio. Here, I showcase various projects that dem
 ### 1. Employee Attrition Prediction using an Artificial Neural Network (ANN)
 This project involves developing an Artificial Neural Network to predict which employees are likely to leave the company based on various factors such as tenure, salary, and working hours. The project illustrates the power of deep learning models in extracting patterns and making accurate predictions. Additionally, it demonstrates the use of Keras Tuner for efficient hyperparameter tuning.
 
+![ANN](1_oc1gaCFvgWXq_gHQFM63UQ.png})
+
 [Explore the project on GitHub](https://github.com/hnewbold/employee-attrition-ann)
 
 ## About Me
