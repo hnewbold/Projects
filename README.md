@@ -1,6 +1,6 @@
 # Husani Newbold's Data Science Portfolio
 
-Welcome to my data science portfolio! Here you will find a growing selection of my personal machine projects.
+Welcome to my data science portfolio! Here you will find a growing selection of my personal machine learning projects.
 
 ## Featured Projects
 
