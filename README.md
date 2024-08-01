@@ -4,7 +4,7 @@ Welcome to my data science portfolio! Here you will find a growing selection of 
 
 ## Featured Projects
 
-### 1. Employee Attrition Prediction using an Artificial Neural Network (ANN)
+### 1. Predicting Employee Attrition with Deep Learning: An Artificial Neural Network (ANN) Approach using TensorFlow
 This project involves developing an Artificial Neural Network to predict which employees are likely to leave the company based on various factors such as tenure, salary, and working hours. The project illustrates the power of deep learning models in extracting patterns and making accurate predictions. Additionally, it demonstrates the use of Keras Tuner for efficient hyperparameter tuning.
 
 
