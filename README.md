@@ -15,7 +15,12 @@ This project involves developing an Artificial Neural Network to predict which e
 ## About Me
 Professional Data Scientist with an MSc in Applied Econometrics & Data Analytics. Over 5 years of combined corporate experience working as a Data Scientist and Data Analyst. Experienced in various areas including machine learning, data mining, data visualization, cloud technologies, and statistics. Certified in Python, Tabluea, SAS and Azure AI & Cloud. 
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/hnew/) 
+## Additional Links
+[LinkedIn](https://www.linkedin.com/in/hnew/) | [Tabluea Public](https://public.tableau.com/app/profile/hnew/vizzes) | <a href="https://www.credly.com/users/husani-newbold" title="To view all certifications visit LinkedIn certification Section">Certifications</a>
+
+
+
+
+
 
 
