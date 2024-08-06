@@ -16,7 +16,7 @@ This project involves developing an Artificial Neural Network to predict which e
 ### 2. Hotel Review Sentiment Analysis with Large Language Models (LLM): Leveraging BERT in TensorFlow
 This project involves analyzing the sentiment of hotel reviews using advanced natural language processing techniques. We leverage the BERT model, a large language model, through the Hugging Face Transformers library, and implement the analysis in TensorFlow.
 
-<img src="Postivewordcloud.png" alt="ANN" width="300" height="150">
+<img src="images.png" alt="ANN" width="279" height="181">
 
 [Explore the project on GitHub](https://github.com/hnewbold/hotel_reviews_sentiment_analysis/)
 
