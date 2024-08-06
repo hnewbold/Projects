@@ -1,6 +1,6 @@
 # Husani Newbold's Data Science Portfolio
 
-Welcome to my data science portfolio! Here you will find a growing selection of my personal machine learning projects.
+Welcome to my data science portfolio! Here you will find a growing selection of my personal machine learning projects. In addition, you can use the links below to connect with me on LinkedIn, view my data visualization portfolio on Tableau Public, or see my official certifications on Credly. For a complete list along with copies of my certifications, please see the 'certifications' section of my [LinkedIn](https://www.linkedin.com/in/hnew/)
 
 ## Featured Projects
 
@@ -9,6 +9,11 @@ This project involves developing an Artificial Neural Network to predict which e
 
 
 <img src="1_oc1gaCFvgWXq_gHQFM63UQ.png" alt="ANN" width="300" height="150">
+
+[Explore the project on GitHub](https://github.com/hnewbold/employee-attrition-ann)
+
+### 2. Hotel Review Sentiment Analysis with Large Language Models (LLM): Leveraging BERT in TensorFlow
+This project involves analyzing the sentiment of hotel reviews using advanced natural language processing techniques. We leverage the BERT model, a large language model, through the Hugging Face Transformers library, and implement the analysis in TensorFlow.
 
 [Explore the project on GitHub](https://github.com/hnewbold/employee-attrition-ann)
 
