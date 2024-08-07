@@ -7,7 +7,9 @@ In addition, you can use the links below to connect with me on LinkedIn, view my
 ## Featured Projects
 
 ### 1. Predicting Employee Attrition with Deep Learning: An Artificial Neural Network (ANN) Approach using TensorFlow
-This project involves developing an Artificial Neural Network to predict which employees are likely to leave the company based on various factors such as tenure, salary, and working hours. The project illustrates the power of deep learning models in extracting patterns and making accurate predictions. Additionally, it demonstrates the use of Keras Tuner for efficient hyperparameter tuning.
+This project utilizes a deep learning model, specifically an Artificial Neural Network (ANN), to predict whether an employee will leave a company based on common work-related attributes such as tenure, salary level, and work hours. Furthermore, Keras Tuner was used to efficiently find the best hyperparameters for the model. This process demonstrated the capability of deep learning models to make accurate predictions based on a limited set of variables, proving the effectiveness of careful tuning and model selection.
+
+
 
 <img src="1_oc1gaCFvgWXq_gHQFM63UQ.png" alt="ANN" width="300" height="150">
 
