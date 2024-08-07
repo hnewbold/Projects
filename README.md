@@ -14,7 +14,7 @@ This project involves developing an Artificial Neural Network to predict which e
 [Explore the project on GitHub](https://github.com/hnewbold/employee-attrition-ann)
 
 ### 2. Hotel Review Sentiment Analysis with Large Language Models (LLM): Leveraging BERT in TensorFlow
-This project involves analyzing the sentiment of hotel reviews using advanced natural language processing techniques. We leverage the BERT model, a large language model, through the Hugging Face Transformers library, and implement the analysis in TensorFlow.
+This project analyzes the sentiment of hotel reviews using advanced Natural Language Processing (NLP) techniques. The reviews are cleaned using the Natural Language Toolkit (nltk) to remove noise and standardize the text. A pre-trained BERT model, accessed through the Hugging Face Transformers library, is fine-tuned using the cleaned hotel review data. The result is a fine-tuned BERT model implemented in TensorFlow that can accurately predict the sentiment (positive, neutral, or negative) of hotel reviews. 
 
 <img src="images.png" alt="ANN" width="279" height="181">
 
