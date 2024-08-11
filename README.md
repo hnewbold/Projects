@@ -22,6 +22,13 @@ This project analyzes the sentiment of hotel reviews using advanced Natural Lang
 
 [Explore the project on GitHub](https://github.com/hnewbold/hotel_reviews_sentiment_analysis/)
 
+### 3. Sales Time Series Analysis Using Facebook Prophet
+This project utilizes Facebook's Prophet package, a robust time series forecasting tool, to predict weekly sales data for a Walmart store. By leveraging historical sales data and a few key independent variables, the model is able to provide highly accurate forecasts of future sales trends which can aid in better decision-making for strategic planning.
+
+<img src="images.png" alt="ANN" width="279" height="181">
+
+[Explore the project on GitHub](https://github.com/hnewbold/sales_time_series_forecast)
+
 ## About Me
 Professional Data Scientist with an MSc in Applied Econometrics & Data Analytics. Over 5 years of combined corporate experience working as a Data Scientist and Data Analyst. Experienced in various areas including machine learning, data mining, data visualization, cloud technologies, and statistics. Certified in Python, Tableau, SAS and Azure AI & Cloud. 
 
