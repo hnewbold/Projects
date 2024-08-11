@@ -25,7 +25,7 @@ This project analyzes the sentiment of hotel reviews using advanced Natural Lang
 ### 3. Sales Time Series Analysis Using Facebook Prophet
 This project utilizes Facebook's Prophet package, a robust time series forecasting tool, to predict weekly sales data for a Walmart store. By leveraging historical sales data and a few key independent variables, the model is able to provide highly accurate forecasts of future sales trends which can aid in better decision-making for strategic planning.
 
-<img src="images.png" alt="ANN" width="279" height="181">
+<img src="Time-Series-Analysis-1024x729.webp" alt="ANN" width="279" height="181">
 
 [Explore the project on GitHub](https://github.com/hnewbold/sales_time_series_forecast)
 
