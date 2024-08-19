@@ -9,6 +9,8 @@ In addition, you can use the links below to connect with me on LinkedIn, view my
 ### 1) Custom Knowledge Base AI Chatbot Using GPT-3 Deployed on Streamlit (08/19/2024)
 This project leverages a GPT-based Large Language Model (LLM) from OpenAI to create a chatbot that can process text from a knowledge base built using a collection of custom PDF documents. The chatbot then uses generative AI to provide accurate answers to user queries based on this knowledge base
 
+<img src="AI Chatbot.jpg" alt="ANN" width="200" height="150">
+
 [Explore the project on GitHub](https://github.com/hnewbold/custom_knowledge_base_chatbot)
 
 ### 2) Sales Time Series Analysis Using Facebook Prophet (08/11/2024)
